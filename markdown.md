@@ -9,41 +9,53 @@
 # Markdown Basics
 
 ### Headers
+# h1
+## h2
+### h3
 
 
 
 ### Lists
   - ###### Ordered List
 
-
+1. this is the first thing
+2. this is the second thing
+3. this is the third thing
 
 
   - ###### Unordered List
 
-
+- item 1
+- item 2
+- item 3
 
   - ###### List with sublists
-
+- this is my main item
+	- this is my sub item
+- this is my next main item
 
 
   - ###### Checklists
-
+- [x] This item
+- [ ] This other item
 
 ### Links
-
+[Click me](http://www.google.com)
 
 ### Images
-
+![lol@zoe](lolzoe.jpg)
 
 ### Code
-
+`var zoe = "lol"`
 
 ### Comments
-  
+command question mark! 
 
 ### Bold and Italics
 
-
+*italics*
+**bold**
+~non important~
 
 ### More Advanced Topics
 [Task lists, Syntax Highlighting,  Tables, Username Mentions, Emojis(:metal:)](https://guides.github.com/features/mastering-markdown/#)
